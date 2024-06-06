@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "gift": "Estudiante Init",
+        "tipo": "Bootcamp",
+        "tiempo": "4 meses",
+        "precio": 250,
+        "imagen": "https://static.vecteezy.com/system/resources/previews/001/992/966/large_2x/students-with-computer-classroom-elements-on-white-background-free-vector.jpg"
+    },
+    {
+        "id": 2,
+        "gift": "Estudiante Premium",
+        "tipo": "Bootcamp",
+        "tiempo": "8 meses",
+        "precio": 300,
+        "imagen": "https://proeducacion.com.mx/wp-content/uploads/2020/09/shutterstock_1451794160.jpg"
+
+    },
+    {
+        "id": 3,
+        "gift": "Estudiante MAX",
+        "tipo": "Bootcamp",
+        "tiempo": "1 año",
+        "precio": 390,
+        "imagen": "https://th.bing.com/th/id/OIP.Mblc9cuwsP3BL9Gjo2EKDgHaE8?rs=1&pid=ImgDetMain"
+
+    }
+]
